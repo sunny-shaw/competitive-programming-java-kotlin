@@ -1,4 +1,4 @@
-// Problem no. 287 : Find the duplicate number from the given array of numbers. Numbers will be from 1 to n. Assume there will be exactly one duplicate number.
+package leetcode.duplicateNumber// Problem no. 287 : Find the duplicate number from the given array of numbers. Numbers will be from 1 to n. Assume there will be exactly one duplicate number.
 
 //NOTE :  All the integers in nums appear only once except for precisely one integer which appears two or more times.
 
