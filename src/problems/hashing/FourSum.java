@@ -1,4 +1,4 @@
-package problems.arrays;
+package problems.hashing;
 
 /*
  * Problem  link: https://leetcode.com/problems/4sum/submissions/
