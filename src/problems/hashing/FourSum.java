@@ -16,7 +16,7 @@ public class FourSum {
         System.out.println(fourSum(nums, target));
     }
 
-    // Time complexity O(N^3 LogN), space complexity O(1)
+    // Time complexity O(N^3 LogN) + O(N LogN), space complexity O(1)
     private static ArrayList<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
 
